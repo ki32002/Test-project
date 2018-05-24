@@ -1,2 +1,1 @@
-Param($var)
-Write-Host " this for testing params : $var"
+[System.Net.Dns]::GetHostName()
