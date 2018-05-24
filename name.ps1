@@ -1,1 +1,1 @@
-[System.Net.Dns]::GetHostName()
+[System.Net.Dns]::GetHostName(
