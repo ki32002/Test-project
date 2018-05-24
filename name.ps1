@@ -1,1 +1,1 @@
-$env:computername
+[System.Net.Dns]::GetHostName()
